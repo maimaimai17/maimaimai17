@@ -1,4 +1,3 @@
-````markdown
 # 🚀 Welcome to maimaimai17's GitHub Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maimaimai17&color=brightgreen)
@@ -24,8 +23,6 @@ const maimaimai17 = {
     currentFocus: "Exploring the intersection of Quantum Computing and Web Development",
     funFact: "Every line of code is poetry in motion for me!"
 };
-````
-
 -----
 
 ## 🌟 About Me
