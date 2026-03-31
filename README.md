@@ -7,8 +7,8 @@
   
 ### Skills and Interests
   
-- 👨‍💻 Varied skill set includes Python, TeX, and HTML.
-- 💡 Interested in topics like quantum computing, Git, and web development.
+- 👨‍💻 Varied skill set includes Python, Data Analyst.
+- 💡 Interested in topics like Quantum computing, Math and Algorithms.
 
 ### GitHub Insights
   
@@ -20,7 +20,7 @@
 ### Contact Me
   
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maimaimai17)
-- 💬 Feel free to reach out via email: maimaimai17@gmail.com
+- 💬 Feel free to reach out via email: maidz1712@gmail.com
 
 ## GitHub Stats
 
