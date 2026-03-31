@@ -1,62 +1,38 @@
-# 🚀 Welcome to maimaimai17's GitHub Profile!
+## Hello there! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=maimaimai17&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/maimaimai17?style=social)](https://github.com/maimaimai17)
+### About Me
+  
+- 🌱 I am a student at NEU majoring in Statistics, with a passion for exploring science and technology.
+- 🔭 Currently researching Quantum Computing and focusing on data and quantum computing.
+  
+### Skills and Interests
+  
+- 👨‍💻 Varied skill set includes Python, TeX, and HTML.
+- 💡 Interested in topics like quantum computing, Git, and web development.
+
+### GitHub Insights
+  
+- 📊 Overall Activity: Moderate level of activity with 4 public repositories.
+- ⚡ Coding Habits: Displaying active engagement in coding with a total of 16 commits.
+- 🚀 Project Contributions: Highlighted repository "quantum_simulator" showcasing interest in quantum computing.
+- 🔗 GitHub Presence: Limited outreach but diversified interests showcased through repositories.
+  
+### Contact Me
+  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/maimaimai17)
+- 💬 Feel free to reach out via email: maimaimai17@gmail.com
+
+## GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=maimaimai17)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maimaimai17)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maimaimai17)](https://github.com/maimaimai17)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maimaimai17)](https://git.io/streak-stats)
+
+If you want to learn more about my projects, feel free to visit my [GitHub Profile](https://github.com/maimaimai17) and explore repositories like [quantum_simulator](https://github.com/maimaimai17/quantum_simulator).
+
+Let's connect, collaborate, and create exciting projects together! 🚀
 
 ---
 
-```javascript
-const maimaimai17 = {
-    pronouns: ["She", "Her"],
-    code: ["Python", "TeX", "HTML", "JavaScript"],
-    askMeAbout: ["Quantum Simulation", "Web Development"],
-    contact: {
-        email: "maimaimai17@xyz.com",
-        linkedin: "[https://linkedin.com/in/maimaimai17](https://linkedin.com/in/maimaimai17)"
-    },
-    technologies: {
-        programming: ["Python", "JavaScript"],
-        frontEnd: ["HTML", "CSS"],
-        backEnd: ["Flask"],
-        quantumComputing: ["Qiskit"]
-    },
-    currentFocus: "Exploring the intersection of Quantum Computing and Web Development",
-    funFact: "Every line of code is poetry in motion for me!"
-};
------
-
-## 🌟 About Me
-
-Hi there\! I'm **maimaimai17**, a passionate coder with interests spanning **Quantum Simulation**, **Web Development**, and beyond. I love exploring the realms of scientific computing and utilizing tools like Python and $TeX$ to craft innovative solutions.
-
-## 🔭 My GitHub Stats
-
-[](https://github.com/maimaimai17)
-
-## 🚀 Featured Projects
-
-Check out some of my standout repositories:
-
-### 1\. [Quantum Simulator](https://github.com/maimaimai17/quantum_simulator)
-
-  - An intriguing venture into quantum simulation using **Python**, underlining my dedication to scientific computing.
-
-### 2\. Quantum Web [WIP]
-
-  - A fusion project combining **Quantum Computing** with **Web Development**. Stay tuned for more updates\!
-
-## 📫 Let's Connect
-
-  - 📧 **Email**: [maimaimai17@xyz.com](mailto:maimaimai17@xyz.com)
-  - 💼 **LinkedIn**: [maimaimai17](https://linkedin.com/in/maimaimai17)
-
-## 🌱 Future Endeavors
-
-I'm currently focusing on diving deeper into **Quantum Computing**, exploring new data-driven technologies, and enhancing my skills in web development. Join me on this exhilarating journey\!
-
------
-
-**Looking forward to the next coding adventure\! Drop by again soon\!** 🌟🚀
-
-```
-```
+*I love diving deep into the world of numbers and algorithms, paving my way towards a brighter, tech-driven future.* 🌟
