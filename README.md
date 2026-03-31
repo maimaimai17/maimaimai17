@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/maimaimai17?style=social)](https://github.com/maimaimai17)
 
 ---
-***const maimaimai17 = {
+    const maimaimai17 = {
     pronouns: "She" | "Her",
     code: ["Python", "TeX", "HTML"],
     askMeAbout: ["Quantum Simulation", "Web Development"],
