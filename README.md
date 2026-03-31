@@ -24,9 +24,6 @@
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=maimaimai17)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maimaimai17)
-[![trophy](https://github-profile-trophy.vercel.app/?username=maimaimai17)](https://github.com/maimaimai17)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=maimaimai17)](https://git.io/streak-stats)
 
 If you want to learn more about my projects, feel free to visit my [GitHub Profile](https://github.com/maimaimai17) and explore repositories like [quantum_simulator](https://github.com/maimaimai17/quantum_simulator).
