@@ -1,26 +1,24 @@
-# Welcome to maimaimai17's GitHub Profile! 🚀
+# 🚀 Welcome to maimaimai17's GitHub Profile!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=maimaimai17&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/maimaimai17?style=social)](https://github.com/maimaimai17)
 
 ---
-    const maimaimai17 = {
-    pronouns: "She" | "Her",
-    code: ["Python", "TeX", "HTML"],
+
+```javascript
+const maimaimai17 = {
+    pronouns: ["She", "Her"],
+    code: ["Python", "TeX", "HTML", "JavaScript"],
     askMeAbout: ["Quantum Simulation", "Web Development"],
     contact: {
         email: "maimaimai17@xyz.com",
-        linkedin: [LinkedIn](https://linkedin.com/in/maimaimai17),
+        linkedin: "[https://linkedin.com/in/maimaimai17](https://linkedin.com/in/maimaimai17)"
     },
     technologies: {
         programming: ["Python", "JavaScript"],
-        frontEnd: {
-            html: ["HTML"],
-        },
-        backEnd: {
-            python: ["Flask"],
-        },
-        quantumComputing: ["Qiskit"],
+        frontEnd: ["HTML", "CSS"],
+        backEnd: ["Flask"],
+        quantumComputing: ["Qiskit"]
     },
     currentFocus: "Exploring the intersection of Quantum Computing and Web Development",
     funFact: "Every line of code is poetry in motion for me!"
